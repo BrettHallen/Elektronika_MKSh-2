@@ -1,4 +1,4 @@
-# Elektronika_MKSh-2<br>Электроника МКШ-2
+# Elektronika MKSh-2<br>Электроника МКШ-2
 Information about the Soviet school calculator designed for their 42VAC low voltage power system.  The Электроника МКУ-1 (MKU-1) is the version suited for domestic 220VAC.<br>
 
 ## [Low Voltage Power Supply](https://github.com/BrettHallen/Soviet_School_42V_Converter)
